@@ -1,6 +1,6 @@
 [project]
 name = "csvw-eo"
-version = "0.1.0"
+version = "0.2.0"
 description = "Safe processing utilities for CSVW data"
 readme = "README.md"
 requires-python = ">=3.9"
