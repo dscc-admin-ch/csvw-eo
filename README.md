@@ -11,9 +11,9 @@
 | src/csvw\_eo/csvw\_to\_opendp\_margins.py   |       32 |        0 |       20 |        0 |    100% |           |
 | src/csvw\_eo/csvw\_to\_smartnoise\_sql.py   |       39 |        2 |       20 |        2 |     93% |  152, 164 |
 | src/csvw\_eo/datatypes.py                   |      133 |        0 |       56 |        0 |    100% |           |
-| src/csvw\_eo/generate\_series.py            |      133 |        8 |       54 |        3 |     92% |295-298, 366-367, 372-376 |
+| src/csvw\_eo/generate\_series.py            |      133 |        8 |       54 |        3 |     92% |447-450, 545-546, 551-555 |
 | src/csvw\_eo/make\_dummy\_from\_metadata.py |       93 |        0 |       30 |        0 |    100% |           |
-| src/csvw\_eo/make\_metadata\_from\_data.py  |      161 |        2 |       58 |        2 |     98% |  151, 448 |
+| src/csvw\_eo/make\_metadata\_from\_data.py  |      161 |        2 |       58 |        2 |     98% |  151, 522 |
 | src/csvw\_eo/metadata\_structure.py         |      191 |        0 |       64 |        0 |    100% |           |
 | src/csvw\_eo/utils.py                       |       50 |        0 |       22 |        0 |    100% |           |
 | src/csvw\_eo/validate\_metadata.py          |        7 |        0 |        0 |        0 |    100% |           |
