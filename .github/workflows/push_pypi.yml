@@ -30,4 +30,4 @@ jobs:
       - name: Publish Packages
         if: github.event_name == 'release' || github.ref_type == 'tag'
         run: |
-          uv publish --check-url https://pypi.org/simple --token ${{ secrets.PYPI_TOKEN }}
+          uv publish csvw-eo-library/dist/* --check-url https://pypi.org/simple --token ${{ secrets.PYPI_TOKEN }}
